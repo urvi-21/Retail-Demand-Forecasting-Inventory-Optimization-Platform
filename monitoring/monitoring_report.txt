@@ -1,0 +1,20 @@
+
+=================================
+MODEL MONITORING REPORT
+=================================
+
+Total Forecasted Demand : 672,086,331
+
+Average Forecast        : 18,321
+
+Average Safety Stock    : 5,874
+
+Average EOQ             : 3,543
+
+Average Order Quantity  : 9,418
+
+STATUS : HEALTHY
+
+No anomalies detected.
+
+=================================

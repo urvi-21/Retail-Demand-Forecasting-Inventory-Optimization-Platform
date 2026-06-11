@@ -1,0 +1,28 @@
+/* Main background */
+.stApp {
+    background-color: #07111f;
+    color: white;
+}
+
+/* Metric cards */
+[data-testid="metric-container"] {
+    background-color: #101b2d;
+    border: 1px solid #1f3c5a;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #0b1728;
+}
+
+/* Headers */
+h1, h2, h3 {
+    color: white;
+}
+
+/* Tables */
+[data-testid="stDataFrame"] {
+    border-radius: 15px;
+}
